@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2af7b690-1952-4560-95c3-41adf398473c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ContosoCompanion",
+    "appService.deploySubpath": "."
+}
